@@ -1,0 +1,9 @@
+{
+  "name": "casino-23",
+  "version": "1.0.0",
+  "description": "Casino 23 - online team card game for friends",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
